@@ -1,0 +1,5 @@
+c:\users\am\documents\visual studio 2015\Projects\HelloWord\p2-3\bin\Debug\p2-3.exe.config
+c:\users\am\documents\visual studio 2015\Projects\HelloWord\p2-3\bin\Debug\p2-3.exe
+c:\users\am\documents\visual studio 2015\Projects\HelloWord\p2-3\bin\Debug\p2-3.pdb
+c:\users\am\documents\visual studio 2015\Projects\HelloWord\p2-3\obj\Debug\p2-3.exe
+c:\users\am\documents\visual studio 2015\Projects\HelloWord\p2-3\obj\Debug\p2-3.pdb

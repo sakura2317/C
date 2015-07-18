@@ -1,0 +1,6 @@
+c:\users\am\documents\visual studio 2015\Projects\HelloWord\HelloWord\bin\Debug\HelloWord.exe.config
+c:\users\am\documents\visual studio 2015\Projects\HelloWord\HelloWord\bin\Debug\HelloWord.exe
+c:\users\am\documents\visual studio 2015\Projects\HelloWord\HelloWord\bin\Debug\HelloWord.pdb
+c:\users\am\documents\visual studio 2015\Projects\HelloWord\HelloWord\obj\Debug\HelloWord.csprojResolveAssemblyReference.cache
+c:\users\am\documents\visual studio 2015\Projects\HelloWord\HelloWord\obj\Debug\HelloWord.exe
+c:\users\am\documents\visual studio 2015\Projects\HelloWord\HelloWord\obj\Debug\HelloWord.pdb

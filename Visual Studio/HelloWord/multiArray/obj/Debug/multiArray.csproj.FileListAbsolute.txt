@@ -1,0 +1,6 @@
+c:\users\am\documents\visual studio 2015\Projects\HelloWord\multiArray\bin\Debug\multiArray.exe.config
+c:\users\am\documents\visual studio 2015\Projects\HelloWord\multiArray\bin\Debug\multiArray.exe
+c:\users\am\documents\visual studio 2015\Projects\HelloWord\multiArray\bin\Debug\multiArray.pdb
+c:\users\am\documents\visual studio 2015\Projects\HelloWord\multiArray\obj\Debug\multiArray.csprojResolveAssemblyReference.cache
+c:\users\am\documents\visual studio 2015\Projects\HelloWord\multiArray\obj\Debug\multiArray.exe
+c:\users\am\documents\visual studio 2015\Projects\HelloWord\multiArray\obj\Debug\multiArray.pdb

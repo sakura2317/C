@@ -1,0 +1,6 @@
+C:\Users\am\documents\visual studio 2015\Projects\HelloWord\Book\bin\Debug\Book.exe.config
+C:\Users\am\documents\visual studio 2015\Projects\HelloWord\Book\obj\Debug\Book.csprojResolveAssemblyReference.cache
+C:\Users\am\documents\visual studio 2015\Projects\HelloWord\Book\bin\Debug\Book.exe
+C:\Users\am\documents\visual studio 2015\Projects\HelloWord\Book\bin\Debug\Book.pdb
+C:\Users\am\documents\visual studio 2015\Projects\HelloWord\Book\obj\Debug\Book.exe
+C:\Users\am\documents\visual studio 2015\Projects\HelloWord\Book\obj\Debug\Book.pdb

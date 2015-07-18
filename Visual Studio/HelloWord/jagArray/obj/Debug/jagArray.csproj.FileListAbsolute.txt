@@ -1,0 +1,5 @@
+c:\users\am\documents\visual studio 2015\Projects\HelloWord\jagArray\bin\Debug\jagArray.exe.config
+c:\users\am\documents\visual studio 2015\Projects\HelloWord\jagArray\bin\Debug\jagArray.exe
+c:\users\am\documents\visual studio 2015\Projects\HelloWord\jagArray\bin\Debug\jagArray.pdb
+c:\users\am\documents\visual studio 2015\Projects\HelloWord\jagArray\obj\Debug\jagArray.exe
+c:\users\am\documents\visual studio 2015\Projects\HelloWord\jagArray\obj\Debug\jagArray.pdb

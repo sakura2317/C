@@ -1,0 +1,6 @@
+c:\users\am\documents\visual studio 2015\Projects\HelloWord\ht\bin\Debug\ht.exe.config
+c:\users\am\documents\visual studio 2015\Projects\HelloWord\ht\obj\Debug\ht.csprojResolveAssemblyReference.cache
+c:\users\am\documents\visual studio 2015\Projects\HelloWord\ht\bin\Debug\ht.exe
+c:\users\am\documents\visual studio 2015\Projects\HelloWord\ht\bin\Debug\ht.pdb
+c:\users\am\documents\visual studio 2015\Projects\HelloWord\ht\obj\Debug\ht.exe
+c:\users\am\documents\visual studio 2015\Projects\HelloWord\ht\obj\Debug\ht.pdb

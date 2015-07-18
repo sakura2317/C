@@ -1,0 +1,6 @@
+c:\users\am\documents\visual studio 2015\Projects\HelloWord\p2-4\bin\Debug\p2-4.exe.config
+c:\users\am\documents\visual studio 2015\Projects\HelloWord\p2-4\bin\Debug\p2-4.exe
+c:\users\am\documents\visual studio 2015\Projects\HelloWord\p2-4\bin\Debug\p2-4.pdb
+c:\users\am\documents\visual studio 2015\Projects\HelloWord\p2-4\obj\Debug\p2-4.csprojResolveAssemblyReference.cache
+c:\users\am\documents\visual studio 2015\Projects\HelloWord\p2-4\obj\Debug\p2-4.exe
+c:\users\am\documents\visual studio 2015\Projects\HelloWord\p2-4\obj\Debug\p2-4.pdb

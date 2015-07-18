@@ -1,0 +1,6 @@
+c:\users\am\documents\visual studio 2015\Projects\HelloWord\Dictionary\bin\Debug\Dictionary.exe.config
+c:\users\am\documents\visual studio 2015\Projects\HelloWord\Dictionary\bin\Debug\Dictionary.exe
+c:\users\am\documents\visual studio 2015\Projects\HelloWord\Dictionary\bin\Debug\Dictionary.pdb
+c:\users\am\documents\visual studio 2015\Projects\HelloWord\Dictionary\obj\Debug\Dictionary.csprojResolveAssemblyReference.cache
+c:\users\am\documents\visual studio 2015\Projects\HelloWord\Dictionary\obj\Debug\Dictionary.exe
+c:\users\am\documents\visual studio 2015\Projects\HelloWord\Dictionary\obj\Debug\Dictionary.pdb

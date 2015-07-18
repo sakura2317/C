@@ -1,0 +1,6 @@
+C:\Users\am\documents\visual studio 2015\Projects\HelloWord\p2-5\bin\Debug\p2-5.exe.config
+C:\Users\am\documents\visual studio 2015\Projects\HelloWord\p2-5\obj\Debug\p2-5.csprojResolveAssemblyReference.cache
+C:\Users\am\documents\visual studio 2015\Projects\HelloWord\p2-5\bin\Debug\p2-5.exe
+C:\Users\am\documents\visual studio 2015\Projects\HelloWord\p2-5\bin\Debug\p2-5.pdb
+C:\Users\am\documents\visual studio 2015\Projects\HelloWord\p2-5\obj\Debug\p2-5.exe
+C:\Users\am\documents\visual studio 2015\Projects\HelloWord\p2-5\obj\Debug\p2-5.pdb
